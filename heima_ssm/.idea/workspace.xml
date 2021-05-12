@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="heima_ssm_web:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfc14ef3-a342-42a8-a797-e9ac038992b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\repository" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1laZFqqH49jxRZ6FcaLOmojzLoK" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/heima_ssm_web/src/main/webapp/pages" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SSM\heima_ssm\heima_ssm_web\src\main\webapp\pages" />
+      <recent name="D:\SSM\heima_ssm\heima_ssm_web\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn mvn install:install-file -Dfile=D:/jdbc/ojdbc14.jar -DgroupId=com.oracle.jdbc -DartifactId=ojdbc14 -Dversion=10.2.0.1.0 -Dpackaging=jar " />
+      <command value="mvn mvn install:install-file -Dfile=D:/jdbc/ojdbc14.jar -DgroupId=com.oracle.jdbc -DartifactId=ojdbc14 -Dversion=10.2.0.4.0 -Dpackaging=jar " />
+      <command value="mvn mvn install:install-file -Dfile=D:/jre/ojdbc14.jar -DgroupId=com.oracle.jdbc -DartifactId=ojdbc14 -Dversion=10.2.0.4.0 -Dpackaging=jar " />
+      <command value="mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc14 -Dversion=10.2.0.1.0 -Dpackaging=jar -Dfile=D:\ojdbc14-10.2.0.2.0.jar " />
+      <command value="mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc14 -Dversion=10.2.0.1.0 -Dpackaging=jar -Dfile=D:\ojdbc14-10.2.0.4.0.jar " />
+      <command value="mvn install:install-file -DgroupId=com.oracle -DartifactId=ojdbc14- Dversion=10.2.0.4.0 - Dpackaging=jar -Dfile=d:\ojdbc14-10.2.0.4.0.jar " />
+    </option>
+  </component>
+  <component name="RunAnythingContextRecentDirectoryCache">
+    <option name="paths">
+      <recentPaths value="D:/jdbc" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="heima_ssm_web [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/heima_ssm_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfc14ef3-a342-42a8-a797-e9ac038992b6" name="Default Changelist" comment="" />
+      <created>1607837061777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607837061777</updated>
+      <workItem from="1607837063426" duration="8097000" />
+      <workItem from="1607934717446" duration="10992000" />
+      <workItem from="1607952297641" duration="2593000" />
+      <workItem from="1607955703320" duration="741000" />
+      <workItem from="1608023482087" duration="7316000" />
+      <workItem from="1608085235645" duration="7332000" />
+      <workItem from="1608116877639" duration="8217000" />
+      <workItem from="1608180602602" duration="6574000" />
+      <workItem from="1608187320796" duration="296000" />
+      <workItem from="1608199137122" duration="2376000" />
+      <workItem from="1608202840525" duration="4837000" />
+      <workItem from="1608207789197" duration="3662000" />
+      <workItem from="1608211696232" duration="1043000" />
+      <workItem from="1608452666543" duration="37000" />
+      <workItem from="1608465938061" duration="5644000" />
+      <workItem from="1608472004581" duration="959000" />
+      <workItem from="1608610041493" duration="6411000" />
+      <workItem from="1608619249898" duration="1241000" />
+      <workItem from="1608725714667" duration="4922000" />
+      <workItem from="1608797247900" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="236" y="59" key="#Project_Structure" timestamp="1607956445154">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="236" y="59" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1607956445154" />
+    <state x="196" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608120869215">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="196" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1608120869215" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1608181472380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608181472380" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607946068915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1607946068915" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1608120748480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608120748480" />
+    <state width="1478" height="296" key="GridCell.Tab.0.bottom" timestamp="1608620509344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="296" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608620509344" />
+    <state width="1478" height="296" key="GridCell.Tab.0.center" timestamp="1608620509344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="296" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608620509344" />
+    <state width="1478" height="296" key="GridCell.Tab.0.left" timestamp="1608620509344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="296" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608620509344" />
+    <state width="1478" height="296" key="GridCell.Tab.0.right" timestamp="1608620509344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="296" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608620509344" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1607839735841">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1536.824@0.0.1536.824" timestamp="1607839735841" />
+    <state x="192" y="0" key="SettingsEditor" timestamp="1608120833199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="192" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608120833199" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1608728014260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1608728014260" />
+    <state x="178" y="107" key="new project wizard" timestamp="1607837254733">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1607837254733" />
+    <state x="395" y="254" width="672" height="677" key="run.anything.popup" timestamp="1608729786112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="254" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1608729786112" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1608615407825">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1608615407825" />
+  </component>
+</project>
